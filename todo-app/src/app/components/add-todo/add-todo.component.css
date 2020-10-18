@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+}
+
+.form input[type='text'] {
+  flex: 10;
+  padding: 5px;
+}
+
+.form input[type='submit'] {
+  flex: 2;
+
+  border: 0;
+
+  cursor: pointer;
+  color: greenyellow;
+  background-color: black;
+}
+
+.form input[type='submit']:hover {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  background-color: greenyellow;
+}

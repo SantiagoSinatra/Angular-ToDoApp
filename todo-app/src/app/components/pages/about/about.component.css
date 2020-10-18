@@ -1,0 +1,15 @@
+h1 {
+  padding: 10px;
+  background-color: gray;
+  color: white;
+}
+
+p, a {
+  padding: 10px;
+  color: white;
+}
+
+cite {
+  padding: 10px;
+  display: block;
+}
